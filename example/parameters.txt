@@ -1,0 +1,3 @@
+fastq	S12_R1.fastq
+quality	37
+type	sanger
